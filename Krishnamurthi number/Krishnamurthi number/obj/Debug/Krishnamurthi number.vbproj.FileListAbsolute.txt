@@ -1,0 +1,10 @@
+c:\users\dipanjan\documents\visual studio 2013\Projects\Krishnamurthi number\Krishnamurthi number\bin\Debug\Krishnamurthi number.exe.config
+c:\users\dipanjan\documents\visual studio 2013\Projects\Krishnamurthi number\Krishnamurthi number\bin\Debug\Krishnamurthi number.exe
+c:\users\dipanjan\documents\visual studio 2013\Projects\Krishnamurthi number\Krishnamurthi number\bin\Debug\Krishnamurthi number.pdb
+c:\users\dipanjan\documents\visual studio 2013\Projects\Krishnamurthi number\Krishnamurthi number\bin\Debug\Krishnamurthi number.xml
+c:\users\dipanjan\documents\visual studio 2013\Projects\Krishnamurthi number\Krishnamurthi number\obj\Debug\Krishnamurthi_number.Form1.resources
+c:\users\dipanjan\documents\visual studio 2013\Projects\Krishnamurthi number\Krishnamurthi number\obj\Debug\Krishnamurthi_number.Resources.resources
+c:\users\dipanjan\documents\visual studio 2013\Projects\Krishnamurthi number\Krishnamurthi number\obj\Debug\Krishnamurthi number.vbproj.GenerateResource.Cache
+c:\users\dipanjan\documents\visual studio 2013\Projects\Krishnamurthi number\Krishnamurthi number\obj\Debug\Krishnamurthi number.exe
+c:\users\dipanjan\documents\visual studio 2013\Projects\Krishnamurthi number\Krishnamurthi number\obj\Debug\Krishnamurthi number.xml
+c:\users\dipanjan\documents\visual studio 2013\Projects\Krishnamurthi number\Krishnamurthi number\obj\Debug\Krishnamurthi number.pdb
