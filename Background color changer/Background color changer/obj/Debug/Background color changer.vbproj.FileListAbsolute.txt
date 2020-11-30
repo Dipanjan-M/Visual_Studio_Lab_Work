@@ -1,0 +1,10 @@
+c:\users\dipanjan\documents\visual studio 2013\Projects\Background color changer\Background color changer\bin\Debug\Background color changer.exe.config
+c:\users\dipanjan\documents\visual studio 2013\Projects\Background color changer\Background color changer\bin\Debug\Background color changer.exe
+c:\users\dipanjan\documents\visual studio 2013\Projects\Background color changer\Background color changer\bin\Debug\Background color changer.pdb
+c:\users\dipanjan\documents\visual studio 2013\Projects\Background color changer\Background color changer\bin\Debug\Background color changer.xml
+c:\users\dipanjan\documents\visual studio 2013\Projects\Background color changer\Background color changer\obj\Debug\Background_color_changer.Form1.resources
+c:\users\dipanjan\documents\visual studio 2013\Projects\Background color changer\Background color changer\obj\Debug\Background_color_changer.Resources.resources
+c:\users\dipanjan\documents\visual studio 2013\Projects\Background color changer\Background color changer\obj\Debug\Background color changer.vbproj.GenerateResource.Cache
+c:\users\dipanjan\documents\visual studio 2013\Projects\Background color changer\Background color changer\obj\Debug\Background color changer.exe
+c:\users\dipanjan\documents\visual studio 2013\Projects\Background color changer\Background color changer\obj\Debug\Background color changer.xml
+c:\users\dipanjan\documents\visual studio 2013\Projects\Background color changer\Background color changer\obj\Debug\Background color changer.pdb
