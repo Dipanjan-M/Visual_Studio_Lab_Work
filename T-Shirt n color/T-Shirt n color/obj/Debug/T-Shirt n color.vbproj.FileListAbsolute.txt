@@ -1,0 +1,10 @@
+c:\users\dipanjan\documents\visual studio 2013\Projects\T-Shirt n color\T-Shirt n color\bin\Debug\T-Shirt n color.exe.config
+c:\users\dipanjan\documents\visual studio 2013\Projects\T-Shirt n color\T-Shirt n color\bin\Debug\T-Shirt n color.exe
+c:\users\dipanjan\documents\visual studio 2013\Projects\T-Shirt n color\T-Shirt n color\bin\Debug\T-Shirt n color.pdb
+c:\users\dipanjan\documents\visual studio 2013\Projects\T-Shirt n color\T-Shirt n color\bin\Debug\T-Shirt n color.xml
+c:\users\dipanjan\documents\visual studio 2013\Projects\T-Shirt n color\T-Shirt n color\obj\Debug\T_Shirt_n_color.Form1.resources
+c:\users\dipanjan\documents\visual studio 2013\Projects\T-Shirt n color\T-Shirt n color\obj\Debug\T_Shirt_n_color.Resources.resources
+c:\users\dipanjan\documents\visual studio 2013\Projects\T-Shirt n color\T-Shirt n color\obj\Debug\T-Shirt n color.vbproj.GenerateResource.Cache
+c:\users\dipanjan\documents\visual studio 2013\Projects\T-Shirt n color\T-Shirt n color\obj\Debug\T-Shirt n color.exe
+c:\users\dipanjan\documents\visual studio 2013\Projects\T-Shirt n color\T-Shirt n color\obj\Debug\T-Shirt n color.xml
+c:\users\dipanjan\documents\visual studio 2013\Projects\T-Shirt n color\T-Shirt n color\obj\Debug\T-Shirt n color.pdb
