@@ -1,0 +1,10 @@
+c:\users\dipanjan\documents\visual studio 2013\Projects\Factor of anumber\Factor of anumber\bin\Debug\Factor of anumber.exe.config
+c:\users\dipanjan\documents\visual studio 2013\Projects\Factor of anumber\Factor of anumber\bin\Debug\Factor of anumber.exe
+c:\users\dipanjan\documents\visual studio 2013\Projects\Factor of anumber\Factor of anumber\bin\Debug\Factor of anumber.pdb
+c:\users\dipanjan\documents\visual studio 2013\Projects\Factor of anumber\Factor of anumber\bin\Debug\Factor of anumber.xml
+c:\users\dipanjan\documents\visual studio 2013\Projects\Factor of anumber\Factor of anumber\obj\Debug\Factor_of_anumber.Form1.resources
+c:\users\dipanjan\documents\visual studio 2013\Projects\Factor of anumber\Factor of anumber\obj\Debug\Factor_of_anumber.Resources.resources
+c:\users\dipanjan\documents\visual studio 2013\Projects\Factor of anumber\Factor of anumber\obj\Debug\Factor of anumber.vbproj.GenerateResource.Cache
+c:\users\dipanjan\documents\visual studio 2013\Projects\Factor of anumber\Factor of anumber\obj\Debug\Factor of anumber.exe
+c:\users\dipanjan\documents\visual studio 2013\Projects\Factor of anumber\Factor of anumber\obj\Debug\Factor of anumber.xml
+c:\users\dipanjan\documents\visual studio 2013\Projects\Factor of anumber\Factor of anumber\obj\Debug\Factor of anumber.pdb
