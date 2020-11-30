@@ -1,0 +1,10 @@
+c:\users\dipanjan\documents\visual studio 2013\Projects\Total n avarage\Total n avarage\bin\Debug\Total n avarage.exe.config
+c:\users\dipanjan\documents\visual studio 2013\Projects\Total n avarage\Total n avarage\bin\Debug\Total n avarage.exe
+c:\users\dipanjan\documents\visual studio 2013\Projects\Total n avarage\Total n avarage\bin\Debug\Total n avarage.pdb
+c:\users\dipanjan\documents\visual studio 2013\Projects\Total n avarage\Total n avarage\bin\Debug\Total n avarage.xml
+c:\users\dipanjan\documents\visual studio 2013\Projects\Total n avarage\Total n avarage\obj\Debug\Total_n_avarage.Form1.resources
+c:\users\dipanjan\documents\visual studio 2013\Projects\Total n avarage\Total n avarage\obj\Debug\Total_n_avarage.Resources.resources
+c:\users\dipanjan\documents\visual studio 2013\Projects\Total n avarage\Total n avarage\obj\Debug\Total n avarage.vbproj.GenerateResource.Cache
+c:\users\dipanjan\documents\visual studio 2013\Projects\Total n avarage\Total n avarage\obj\Debug\Total n avarage.exe
+c:\users\dipanjan\documents\visual studio 2013\Projects\Total n avarage\Total n avarage\obj\Debug\Total n avarage.xml
+c:\users\dipanjan\documents\visual studio 2013\Projects\Total n avarage\Total n avarage\obj\Debug\Total n avarage.pdb
